@@ -1,0 +1,5 @@
+2,slithy@unicorn.example.com
+1,brilling@tweedledee.example.com
+1,uffish@knight.example.net
+1,jubjub@sheep.example.com
+1,tumtum@queen.example.org
